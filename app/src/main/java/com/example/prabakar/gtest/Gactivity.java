@@ -37,7 +37,7 @@ public void send(View v)
     setContentView(R.layout.activity_actv2);
     vo=(TextView)findViewById(R.id.textn);
     vo.setText(edit.getText().toString());
-    setContentView(R.layout.activity_gactivity);
+
 }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
